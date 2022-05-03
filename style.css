@@ -1,0 +1,16 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+ul,
+ol {
+	list-style: none;
+}
+
+li {
+	background-color: blue;
+	display: inline;
+}
+nav a {
+	color: white;
+}
